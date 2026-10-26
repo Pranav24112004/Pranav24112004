@@ -35,7 +35,7 @@ A multi-agent system that drafts proposal sections from past proposals, with a p
 
 **Machine learning:** scikit-learn
 
-**Deep Learning: ** : transformers, ANN / CNN / RNN / LSTM
+**Deep learning:** : transformers, ANN / CNN / RNN / LSTM
 
 **Cloud and data:** Azure AI Search, Azure OpenAI (AI Foundry), Document Intelligence, Blob Storage, Cosmos DB, Azure SQL, Databricks, PySpark, Delta Lake
 
