@@ -2,7 +2,7 @@
 
 **Data Scientist** building GenAI and machine learning solutions on Azure and Databricks. I enjoy turning messy data and open-ended problems into systems that people can actually use.
 
-B.Tech in Computer Science (MIT World Peace University, Pune) · Based in Pune, India
+B.Tech in Computer Science (MIT World Peace University, Pune)
 
 ---
 
